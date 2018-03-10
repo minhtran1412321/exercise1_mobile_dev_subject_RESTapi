@@ -8,13 +8,11 @@
   },
   "author": "",
   "license": "ISC",
-  "devDependencies": {
-    
-  },
+  "devDependencies": {},
   "dependencies": {
-    "async": "^1.5.0",
-    "body-parser": "^1.14.1",
-    "express": "^4.13.3"
+    "async": "^1.5.2",
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2"
   },
   "engines": {
     "node": "8.9.4"
